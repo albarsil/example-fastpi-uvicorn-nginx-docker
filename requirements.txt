@@ -1,0 +1,10 @@
+# backend
+fastapi
+gunicorn
+uvicorn[standard]
+pyschemavalidator
+requests
+
+# testing
+pytest>=6.2.3
+pytest-cov>=2.12.1
